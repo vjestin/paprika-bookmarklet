@@ -1,0 +1,11 @@
+{
+	"extension_name" : {
+		"message" : "Paprika Bookmarklet"
+	},
+	"extension_description" : {
+		"message" : "This non-official extension installs the Paprika bookmarklet on your browser (because a shiny button is always better than a tasteless shortcut)."
+	},
+	"already_saved" : {
+		"message" : "This recipe has already been saved! ;-)"
+	}
+}
