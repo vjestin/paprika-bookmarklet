@@ -3,7 +3,7 @@
 		"message" : "Bookmarklet Paprika"
 	},
 	"extension_description" : {
-		"message" : "Cette extension non-officielle installe la bookmarklet de Paprika sur votre navigateur (parce qu'un joli bouton est toujours mieux qu'un favori grisâtre)."
+		"message" : "Cette extension non-officielle installe la bookmarklet de Paprika sur votre navigateur."
 	},
 	"already_saved" : {
 		"message" : "Cette recette a déjà été sauvegardée! ;-)"
